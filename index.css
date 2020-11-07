@@ -1,0 +1,22 @@
+div{ 
+background-color: aliceblue;
+width: 600px;
+height: 300px;
+margin: 0 auto;
+position: absolute;
+
+}
+p{
+ width: 100px;
+ height: 100px;
+ background-color: aquamarine;
+ margin: 0 50px;
+}
+li{
+    display: inline;
+   
+}
+ul{
+  padding: 0;
+  text-align: center;
+}
